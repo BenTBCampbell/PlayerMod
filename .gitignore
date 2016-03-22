@@ -47,10 +47,10 @@ Temporary Items
 .apdisk
 
 #ignore everything
-*
+/*
 
 #except source
 !.gitignore
 !.gitattributes
-!src/*
+!src/
 

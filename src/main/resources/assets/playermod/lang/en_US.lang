@@ -1,0 +1,5 @@
+item.playermod.PatherWand.name=Pather Wand
+
+entity.playermod.player_mob.name=Player
+entity.playermod.fake_player.name=Fake Player
+entity.playermod.pather.name=Pather
