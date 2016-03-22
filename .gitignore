@@ -51,5 +51,6 @@ Temporary Items
 
 #except source
 !.gitignore
-!src/
+!.gitattributes
+!src/*
 
